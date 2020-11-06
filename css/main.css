@@ -8,6 +8,10 @@ body {
 	width: 70%;
 	margin: 0 auto;
 }
+html {
+height: 100px;
+display: flex;
+}
 
 
 
